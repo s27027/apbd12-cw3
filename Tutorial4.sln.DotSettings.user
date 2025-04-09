@@ -2,5 +2,8 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6848354f_002Dce1f_002D48f8_002Db62f_002D3f50c0ed1fc8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldReturnAllSalesmen" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::EmpDeptSalgradeTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::Tutorial3Tests.AdvancedEmpDeptTests.ShouldReturnMaxSalary&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::Tutorial3Tests.AdvancedEmpDeptTests.ShouldFindAnyWithCommissionOver400&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::73439BA3-64B9-4BEC-A837-8A5044D3E5BB::net9.0::Tutorial3Tests.AdvancedEmpDeptTests.ShouldReturnMinSalaryInDept30&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
